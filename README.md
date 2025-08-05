@@ -1,2 +1,2 @@
 # Modeling-Patient-Risk-Factors-for-Binary-Outcomes-using-logistic-regression
-This project uses logistic regression to predict the likelihood of hospital readmission based on patient age, hospitalization duration, and chronic illness status. 
+In this project I uses logistic regression to predict the likelihood of hospital readmission based on patient age, hospitalization duration and chronic illness status. Simulates practical healthcare scenarios and provides insights into which variables impact patient outcomes most, demonstrating how data science can influence medical decision-making and resource planning. 
